@@ -2,7 +2,7 @@
 
  * python learning tutorial
  * by B.K. Choi
- * 2017 Feb 2nd
+ * Feb 2nd 2017
 
 # useful site 
 nbviewer [http://nbviewer.jupyter.org/]
